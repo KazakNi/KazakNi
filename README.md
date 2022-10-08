@@ -19,6 +19,8 @@
      | 11.2014 — 07.2017 | Danfoss       | Technical specialist in heating systems equipment |
      | 08.2017 — 06.2022 | SICK AG       | Sales support engineer in gas analyzers systems|
 
+ <img src="https://github.com/KazakNi/KazakNi/blob/e9d5a5e1063f3bbba6be86c089924341967162f8/starwars.png" title="Django" alt="Django" width="1100" height="700"/>
+
 
 **Current state and contacts**
 - 📚 Now I am diving in Python web-developing and work on two applications using the following tools: <br>
