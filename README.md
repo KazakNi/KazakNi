@@ -10,6 +10,7 @@
 ## Greetings, my name is Nikita! Nick for short.
 
 **Bio**
+- :baby: Born on 29.11.1993
 - :school: Graduated from MPEI in 2015 with bachelor degree in heating engineering.
 - :office: Work experience:
 
