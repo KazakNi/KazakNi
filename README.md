@@ -19,7 +19,9 @@
      | 08.2017 — 06.2022 | SICK AG       | Sales support engineer in gas analyzers systems|
 
 
-#### Heading link [Heading link](https://github.com/pandao/editor.md "Heading link")
+**Current state and contacts**
 - 📚 I’m currently learning  <img height="32" width="32" src="python.png" align="center"> </img>
 - 📫 Email: [kazakov.ni@ya.ru](mailto:kazakov.ni@ya.ru)
-- :link:	Telegram [Links](http://t.me/kazakni)
+- <a href="https://www.linkedin.com/in/nikita-kazakov-b9b180104">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
+  </a>
