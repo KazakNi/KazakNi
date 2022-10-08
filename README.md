@@ -1,8 +1,6 @@
 
 > "Anything that can go wrong will go wrong." Murphy's Law (c)
 
-$`\textcolor{green}{\text{your text}}`$
-
  <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center"> </img>
   </div>
