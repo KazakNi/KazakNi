@@ -21,8 +21,7 @@
 
 **Current state and contacts**
 - 📚 Now I am diving in Python web-developing and work on two applications using the following tools: <br>
-<div>
-  
+&nbsp;<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -34,7 +33,6 @@
 - <a href="https://www.linkedin.com/in/nikita-kazakov-b9b180104">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
   </a>
-
 - <a href="https://t.me/kazakni">
-    <img src="https://www.flaticon.com/free-icons/telegram" alt="Telegram" align="center"/>
+    <img src="https://github.com/KazakNi/KazakNi/blob/0e9c9b4999ff522282f3a7c2b9058cab47f9bbb7/telegram.png" alt="Telegram" align="center" width="20" height="20"/>
   </a> 
