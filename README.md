@@ -36,7 +36,7 @@
 - <a href="https://www.linkedin.com/in/nikita-kazakov-b9b180104">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
   </a>
-- <a href="https://t.me/kazakni">
+- <a href="https://t.me/kazakni"> **Telegram profile**
     <img src="https://github.com/KazakNi/KazakNi/blob/0e9c9b4999ff522282f3a7c2b9058cab47f9bbb7/telegram.png" alt="Telegram" align="center" width="20" height="20"/>
   </a> 
 - ![Looking for a job](https://img.shields.io/badge/-Looking%20for%20a%20job-green?style=&logo=github&logoColor=black)
