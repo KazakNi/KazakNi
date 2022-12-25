@@ -42,4 +42,5 @@
 - ![Looking for a job](https://img.shields.io/badge/-Looking%20for%20a%20job-green?style=&logo=github&logoColor=black)
 
 
-![](https://komarev.com/ghpvc/?username=KazakNi&color=blueviolet)
+
+-   ![](https://komarev.com/ghpvc/?username=KazakNi&color=blueviolet)
