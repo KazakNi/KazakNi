@@ -40,3 +40,6 @@
     <img src="https://github.com/KazakNi/KazakNi/blob/0e9c9b4999ff522282f3a7c2b9058cab47f9bbb7/telegram.png" alt="Telegram" align="center" width="20" height="20"/>
   </a> 
 - ![Looking for a job](https://img.shields.io/badge/-Looking%20for%20a%20job-green?style=&logo=github&logoColor=black)
+
+
+![](https://komarev.com/ghpvc/?username=KazakNi&color=blueviolet)
