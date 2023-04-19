@@ -1,1 +1,5 @@
+name: foodgram-CI
 
+on:
+  push:
+    branches: [ master ]
