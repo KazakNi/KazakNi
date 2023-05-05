@@ -7,7 +7,7 @@
   
   ---
  
-## Greetings, my name is Nikita! Nick for short.
+## Greetings, my name is Nick :)
 
 **Bio**
 - :baby: Born on 29.11.1993
