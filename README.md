@@ -45,6 +45,6 @@
   </a> 
 - ![Looking for a job](https://img.shields.io/badge/-Looking%20for%20a%20job-green?style=&logo=github&logoColor=black)
 
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KazakNi)](https://github.com/anuraghazra/github-readme-stats)
 
 -   ![](https://komarev.com/ghpvc/?username=KazakNi&color=blueviolet)
