@@ -20,8 +20,6 @@
      | 08.2017 — 06.2022 | SICK AG       | Sales support engineer in gas analyzers systems|
      | 06.2022 — present | Python/Go Developer       | Pet-projects designing and self education|
 
- <img src="https://github.com/KazakNi/KazakNi/blob/e9d5a5e1063f3bbba6be86c089924341967162f8/starwars.png" title="Django" alt="Django" width="1100" height="700"/>
-
 
 **Current state and contacts**
 - 📚 Now I am diving in asyncio subtle aspects, data structures and algorithms and working on Golang comprehension. I have already worked with the following tools: <br>
